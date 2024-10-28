@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Qais Adeniji-Bello!
 
-<!--
-**QaisBello/QaisBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Github Stats📊
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QaisBello&theme=tokyonight-duo&border_radius=20)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QaisBello&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/QaisBello">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaisBello&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" /><img src="https://github-readme-stats.vercel.app/api?username=QaisBello&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true&text_bold=false" height="160" />
+</a>
+
+## Skills
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="R logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="python logo"  />
