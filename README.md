@@ -17,6 +17,7 @@ I work across the data stack: analytics, data science, data engineering and AI. 
 
 | Track | Project | What it shows |
 |---|---|---|
+| Health Data | [**Patient flow, in SQL**](https://github.com/QaisBello/nhs-patient-flow-sql) · [live](https://qaisbello.github.io/health-data/patient-flow-sql/) | Twelve trust-analyst questions in SQL on a synthetic NHS-style hospital extract: bed occupancy, 30-day readmissions and age-standardised inequalities. Raw and cleaned data, every fix logged. |
 | Data Analytics | [**Lifeblood Ledger**](https://github.com/QaisBello/One-health-life-savers-blood-ledger) · [live](https://qaisbello.github.io/data-analytics/lifeblood-ledger/) | Three campus blood drives cleaned, de-identified and linked by donor, with a cross-filtering dashboard. |
 | Data Analytics | [**Adidas Sales Audit**](https://github.com/QaisBello/adidas-sales-dashboard) · [live](https://qaisbello.github.io/data-analytics/adidas-sales/) | 40% of rows in a popular dataset are inflated tenfold. Fixing them cuts revenue from $899.9M to $120.2M and flips the channel ranking. |
 | Data Analytics | [**World Cup Goal Clock**](https://github.com/QaisBello/world-cup-analysis) · [live](https://qaisbello.github.io/data-analytics/world-cup/) | Every World Cup goal, timed: 22% come in the last 15 minutes. Built on the open Fjelstul World Cup Database. |
